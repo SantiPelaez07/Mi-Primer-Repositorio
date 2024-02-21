@@ -34,3 +34,5 @@ Para agregar solo los archivos javascript
 Para agregar un solo archivo
 - git add index.js
 
+## Merge: se encraga de integrar  cambios de una rama a otra
+##  Conflictos: son cuando dos personas están trabajando en lo mismo, y Git no sabe
