@@ -22,3 +22,7 @@
 
 ## Comando  para fusionar o unir dos ramas, es decir integrar los cambios de una rama
 
+
+
+## Comando para eliminar un archivo de git
+- git rm --cached ""Nombre del archivo que se quiere bajar de git
