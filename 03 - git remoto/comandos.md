@@ -24,3 +24,6 @@
 
 ## Comando para subir todas las ramas locales  al repositorio remoto
 - git pull --all
+
+
+## Titulo 2
